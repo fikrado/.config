@@ -1,7 +1,7 @@
 # ALL FILES FOR LINUX COMPUTER
 ### this is my simple repo for retoring my files to recover 
 
-## download all files in one 
+## fast download all files 
 [![Github](https://img.shields.io/badge/all-Download-yallow?style=for-the-badge&logo=Download)]()
 
 ## download the icons from the link below
