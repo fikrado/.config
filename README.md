@@ -8,4 +8,4 @@
 [![Github](https://img.shields.io/badge/icon-Download-red?style=for-the-badge&logo=Android)](https://www.mediafire.com/file/lefmdyrnp5sihfa/icons.zip/file)
 
 ## download for window 11 and 10 files
-[![Github](https://img.shields.io/badge/windows-download-blue?style=for-the-badge&logo=Windows)](https://facebook.com/fikrado4048063)
+[![Github](https://img.shields.io/badge/windows-download-blue?style=for-the-badge&logo=Windows)](https://www.mediafire.com/file/6ivsgch8jwicguc/windows-theme.zip/file)
