@@ -9,3 +9,4 @@
 
 ## download for window 11 and 10 files
 [![Github](https://img.shields.io/badge/windows-download-blue?style=for-the-badge&logo=Windows)](https://www.mediafire.com/file/6ivsgch8jwicguc/windows-theme.zip/file)
+<img src="/img/windows.png" >
