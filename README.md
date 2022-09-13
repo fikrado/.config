@@ -3,6 +3,7 @@
 
 ## fast download all files for linux
 [![Github](https://img.shields.io/badge/linux-Download-yallow?style=for-the-badge&logo=Linux)](https://www.mediafire.com/file/7p93fnzi665gru3/all.zip/file)
+<img src="/img/linux.jpg" >
 
 ## download the icons from the link below
 [![Github](https://img.shields.io/badge/icon-Download-red?style=for-the-badge&logo=Android)](https://www.mediafire.com/file/lefmdyrnp5sihfa/icons.zip/file)
